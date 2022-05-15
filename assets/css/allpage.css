@@ -1,0 +1,12 @@
+/**
+ * Css for all pages
+ */
+
+.my-pagination span {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+.my-pagination form {
+    width: 195px;
+}

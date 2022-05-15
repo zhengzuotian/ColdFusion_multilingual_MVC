@@ -1,0 +1,53 @@
+﻿{
+	"general": {
+		"today": "C'est {} aujourd'hui",
+		"header": "Ceci est mon en-tête",
+		"footer": "Ceci est mon pied de page",
+		"home": "Acceuil",
+		"company": "Nom de l'entreprise",
+		"skip": "Passer à la page",
+		"pagingCount": "Affichage de {} à {} entrées sur {}"
+	},
+	"default": {
+		"home": {
+			"title": "Ma page d'accueil",
+			"description": "Qui sapiente distinctio suscipit voluptate sed minus exercitationem et saepe doloribus ut voluptatum excepturi. Sit soluta sunt sed tenetur amet non amet quaerat. Et error necessitatibus aut blanditiis nemo id quis voluptas et molestiae autem qui distinctio voluptates. Est dolorum maiores ea quod dolor ea ducimus omnis. ",
+			"queriesExampleInstruction": "Avant de passer à l'exemple de requêtes, assurez-vous d'avoir ajouté une source de données dans CF admin sous le nom 'demo_dev', et créez un exemple de table dans la base de données associée:"
+		},
+		"p404": {
+			"title": "Oops! Page non trouvée",
+			"description": "La page que vous cherchez n'a pas été trouvée.",
+			"back": "Retour à l'accueil"
+		}
+	},
+	"demo": {
+		"example": {
+			"linkLabel": "Exemple de page",
+			"title": "Exemple avec soumission de formulaire normale",
+			"titleAjax": "Exemple avec soumission de formulaire par AJAX",
+			"input1Label": "Exemple d'étiquette",
+			"input2Label": "Une autre étiquette",
+			"submit": "Soumettre",
+			"ajaxSubmit": "Soumettre par AJAX",
+			"received": "Nous avons reçu vos données"
+		},
+		"anySpecificName": {
+			"linkLabel": "Exemple avec n'importe quelle URL",
+			"message": "L'URL ne doit pas toujours être avec le modèle comme module_name/action_name. En fait, il peut s'agir de n'importe quel mappage défini dans RequestController.routeSettings()."
+		},
+		"pagingExample": {
+			"linkLabel": "Exemple de pagination",
+			"item": "Article",
+			"description": "Description"
+		},
+		"queriesExample": {
+			"linkLabel": "Exemple de requêtes - CRUD",
+			"labelBtnAdd": "Ajouter",
+			"labelBtnUpdate": "Mise à jour",
+			"labelBtnDelete": "Supprimer",
+			"recordAdded": "Nouvel enregistrement ajouté",
+			"recordUpdated": "Enregistrement mis à jour",
+			"recordDeleted": "Enregistrement supprimé"
+		}
+	}
+}

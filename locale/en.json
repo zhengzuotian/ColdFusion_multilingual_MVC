@@ -1,0 +1,53 @@
+{
+	"general": {
+		"today": "Today is {}",
+		"header": "This is my header",
+		"footer": "This is my footer",
+		"home": "Home",
+		"company": "Company name",
+		"skip": "Skip to page",
+		"pagingCount": "Showing {} to {} of {} entries"
+	},
+	"default": {
+		"home": {
+			"title": "My home page",
+			"description": "Lorem ipsum dolor sit amet. Sit dolorem dolores sit suscipit blanditiis ea quia inventore quo voluptatem reprehenderit vel reiciendis modi ut saepe voluptatibus. At quibusdam temporibus et assumenda excepturi est quas natus. Rem repudiandae quam nam impedit quia ut possimus quia est voluptates quam ut rerum doloremque quo velit deserunt aut magni quia. ",
+			"queriesExampleInstruction": "Before going to queries example make sure you have a datasource added in CF admin under the name 'demo_dev', and create an example table in the associated db:"
+		},
+		"p404": {
+			"title": "Oops! Page not found",
+			"description": "The page you are looking for was not found.",
+			"back": "Back to home page"
+		}
+	},
+	"demo": {
+		"example": {
+			"linkLabel": "Example Page",
+			"title": "Example with normal form submission",
+			"titleAjax": "Example with form submission by AJAX",
+			"input1Label": "Example label",
+			"input2Label": "Another label",
+			"submit": "Submit",
+			"ajaxSubmit": "Submit by AJAX",
+			"received": "We have received your data"
+		},
+		"anySpecificName": {
+			"linkLabel": "Example with any URL",
+			"message": "The URL doesn't have to be always with the pattern like module_name/action_name. Actually, it can be any mapping defined in RequestController.routeSettings()."
+		},
+		"pagingExample": {
+			"linkLabel": "Pagination example",
+			"item": "Item",
+			"description": "Description"
+		},
+		"queriesExample": {
+			"linkLabel": "Queries example - CRUD",
+			"labelBtnAdd": "Add",
+			"labelBtnUpdate": "Update",
+			"labelBtnDelete": "Delete",
+			"recordAdded": "New record added",
+			"recordUpdated": "Record updated",
+			"recordDeleted": "Record deleted"
+		}
+	}
+}

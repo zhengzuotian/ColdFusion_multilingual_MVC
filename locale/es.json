@@ -1,0 +1,54 @@
+﻿{
+	"general": {
+		"today": "Hoy es {}",
+		"header": "Este es mi encabezado",
+		"footer": "Este es mi pie de página",
+		"home": "Hogar",
+		"company": "Nombre de empresa",
+		"skip": "Saltar a la página",
+		"pagingCount": "Mostrando {} a {} de {} entradas"
+	},
+	"default": {
+		"home": {
+			"title": "Mi página de inicio",
+			"description": "Lorem ipsum dolor sit amet. Sit dolorem dolores sit suscipit blanditiis ea quia inventore quo voluptatem reprehenderit vel reiciendis modi ut saepe voluptatibus. At quibusdam temporibus et assumenda excepturi est quas natus. Rem repudiandae quam nam impedit quia ut possimus quia est voluptates quam ut rerum doloremque quo velit deserunt aut magni quia",
+			"queriesExampleInstruction": "Antes de ir al ejemplo de consultas, asegúrese de tener una fuente de datos agregada en el administrador de CF con el nombre 'demo_dev' y cree una tabla de ejemplo en la base de datos asociada:"
+		},
+		"p404": {
+			"title": "¡Ups! Página no encontrada",
+			"description": "No se encontró la página que está buscando.",
+			"back": "Volver a la página de inicio"
+		}
+	},
+	"demo": {
+		"example": {
+			"linkLabel": "Página de ejemplo",
+			"title": "Ejemplo con envío de formulario normal",
+			"titleAjax": "Ejemplo con envío de formulario por AJAX",
+			"input1Label": "Ejemplo de etiqueta",
+			"input2Label": "Otra etiqueta",
+			"submit": "Enviar",
+			"ajaxSubmit": "Enviar por AJAX",
+			"received": "Hemos recibido tus datos"
+		},
+		"anySpecificName": {
+			"linkLabel": "Ejemplo con cualquier url",
+			"message": "La URL no tiene que estar siempre con el patrón como module_name/action_name. En realidad, puede ser cualquier asignación definida en RequestController.routeSettings()."
+		},
+		"pagingExample": {
+			"linkLabel": "Ejemplo de paginación",
+			"item": "Articulo",
+			"description": "Descripción"
+		},
+
+		"queriesExample": {
+			"linkLabel": "Ejemplo de consultas - CRUD",
+			"labelBtnAdd": "Agregar",
+			"labelBtnUpdate": "Actualizar",
+			"labelBtnDelete": "Borrar",
+			"recordAdded": "Nuevo registro agregado",
+			"recordUpdated": "Registro actualizado",
+			"recordDeleted": "Registro eliminado"
+		}
+	}
+}
